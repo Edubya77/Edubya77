@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Eric 
 
-I'm a technical-commercial leader based in Geneva, Switzerland, working at the intersection of **enterprise technology, security, compliance, and strategy**.
+I'm a technical-commercial leader based in Switzerland, working at the intersection of **enterprise technology, security, compliance, and strategy**.
 
 My professional background spans Solutions Engineering, Professional Services, product development, and international enterprise SaaS.
 
